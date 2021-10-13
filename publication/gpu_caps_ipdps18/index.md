@@ -35,21 +35,21 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+- name: Slide Show
+  url: https://filedn.com/luEeJVCCazShDlU4ibloXvu/publication/gpu_caps_ipdps18/gpu_caps_ipdps18_slides.ppsx
+url_pdf: https://filedn.com/luEeJVCCazShDlU4ibloXvu/publication/gpu_caps_ipdps18/gpu_caps_ipdps18.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: https://filedn.com/luEeJVCCazShDlU4ibloXvu/publication/gpu_caps_ipdps18/gpu_caps_ipdps18_slides.pdf
 url_source: ''
 url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Prefetch-aware scheduler'
   focal_point: ""
   preview_only: false
 
