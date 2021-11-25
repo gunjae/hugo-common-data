@@ -39,8 +39,8 @@ tags:
 featured: false
 
 # links:
- - name: "Page"
-   url: "https://ieeexplore.ieee.org/document/9139253"
+# - name: "Page"
+#   url: "https://ieeexplore.ieee.org/document/9139253"
 url_pdf: https://filedn.com/luEeJVCCazShDlU4ibloXvu/publication/gpu_nvrf_access20/gpu_nvrf_access20.pdf
 url_code: ''
 url_dataset: ''

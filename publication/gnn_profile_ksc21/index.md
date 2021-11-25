@@ -1,5 +1,5 @@
 ---
-title: "Analyzing the Performance of GCN Inferences by Sparsity of Graph Features (To Appear)"
+title: "Analyzing the Performance of GCN Inferences by Sparsity of Graph Features"
 authors:
 - inje-kim
 - admin
@@ -17,7 +17,7 @@ publication_types: ["10"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Korea Software Congress*"
-publication_short: "*KSC '21*"
+publication_short: "*KSC '21 (To appear)*"
 
 abstract: ""
 
@@ -25,9 +25,9 @@ abstract: ""
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac #convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
+- GNN
+- Profiling
 - GPU
-- Security
-- Side-Channel
 featured: false
 
 links:

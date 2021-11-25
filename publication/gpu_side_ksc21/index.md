@@ -1,5 +1,5 @@
 ---
-title: "Analyzing Characteristics of Memory Side-Channels in GPU (To Appear)"
+title: "Analyzing Characteristics of Memory Side-Channels in GPU"
 authors:
 - seungho-jung
 - Myung Kuk Yoon
@@ -18,7 +18,7 @@ publication_types: ["10"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Korea Software Congress*"
-publication_short: "*KSC '21*"
+publication_short: "*KSC '21 (To appear)*"
 
 abstract: ""
 

@@ -32,13 +32,13 @@ abstract: Since cache side-channel attacks have been serious security threats to
 tags:
 - Security
 - Malware Detection
-- Cache Side-Channel Attacks
+- Cache Side-Channel Attack
 - Low-Overhead
 featured: false
 
 # links:
- - name: "Page"
-   url: "https://www.mdpi.com/2079-9292/10/22/2748"
+# - name: "Page"
+#   url: "https://www.mdpi.com/2079-9292/10/22/2748"
 url_pdf: https://filedn.com/luEeJVCCazShDlU4ibloXvu/publication/sec_cache_mdpi21/sec_cache_mdpi21.pdf
 url_code: ''
 url_dataset: ''

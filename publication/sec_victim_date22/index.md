@@ -1,5 +1,5 @@
 ---
-title: "CacheRewinder: Revoking Speculative Cache Updates Exploiting Write-Back Buffer (To appear)"
+title: "CacheRewinder: Revoking Speculative Cache Updates Exploiting Write-Back Buffer"
 authors:
 - jongmin-lee
 - Junyeon Lee
@@ -19,7 +19,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Design, Automation and Test in Europe Conference*"
-publication_short: "*DATE '18*"
+publication_short: "*DATE '22 (To appear)*"
 
 abstract: ""
 
@@ -48,7 +48,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Prefetch-aware scheduler'
+  caption: 'CacheRewinder Architecture'
   focal_point: ""
   preview_only: false
 

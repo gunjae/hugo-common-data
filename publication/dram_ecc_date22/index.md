@@ -1,5 +1,5 @@
 ---
-title: "Stealth ECC: A Data-Width Aware Adaptive ECC Scheme for DRAM Error Resilience (To appear)"
+title: "Stealth ECC: A Data-Width Aware Adaptive ECC Scheme for DRAM Error Resilience"
 authors:
 - Yeong Seo Lee
 - admin
@@ -19,7 +19,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Design, Automation and Test in Europe Conference*"
-publication_short: "*DATE '18*"
+publication_short: "*DATE '22 (To appear)*"
 
 abstract: ""
 
@@ -27,10 +27,10 @@ abstract: ""
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac #convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Security
-- Secure Architecture
-- Transient Execution Attack
-- Cache Side-Channel
+- DRAM
+- Error Correction Code
+- Reliability
+- Chip Error Resilience
 featured: false
 
 links:
@@ -47,10 +47,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Prefetch-aware scheduler'
-  focal_point: ""
-  preview_only: false
+#image:
+#  caption: 'Prefetch-aware scheduler'
+#  focal_point: ""
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

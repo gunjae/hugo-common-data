@@ -1,5 +1,5 @@
 ---
-title: "Analyzing Data Cache Performance of Modern GPU Architecture (To Appear)"
+title: "Analyzing Data Cache Performance of Modern GPU Architecture"
 authors:
 - jonghyun-jeong
 - Yunho Oh
@@ -18,7 +18,7 @@ publication_types: ["10"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Korea Software Congress*"
-publication_short: "*KSC '21*"
+publication_short: "*KSC '21 (To appear)*"
 
 abstract: ""
 
