@@ -48,7 +48,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'US 2020/0310690 A1'
+#  caption: 'US 2020/0310690 A1'
   focal_point: ""
   preview_only: false
 
