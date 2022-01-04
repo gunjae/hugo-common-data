@@ -3,7 +3,7 @@ title: "RT-Sniper: A Low-Overhead Defense Mechanism Pinpointing Cache Side-Chann
 authors:
 - Minkyu Song
 - Junyeon Lee
-- Taeweon Seo
+- Taeweon Suh
 - admin
 author_notes:
 - "Equal contribution"
