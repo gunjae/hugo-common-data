@@ -40,9 +40,9 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: https://filedn.com/luEeJVCCazShDlU4ibloXvu/accel_speaker_ieie20/accel_speaker_ieie20_slides.pdf
+url_slides: https://filedn.com/luEeJVCCazShDlU4ibloXvu/publication/accel_speaker_ieie20/accel_speaker_ieie20_slides.pdf
 url_source: ''
-url_video: https://filedn.com/luEeJVCCazShDlU4ibloXvu/accel_speaker_ieie20/accel_speaker_ieie20_slides.mp4
+url_video: https://filedn.com/luEeJVCCazShDlU4ibloXvu/publication/accel_speaker_ieie20/accel_speaker_ieie20_slides.mp4
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
